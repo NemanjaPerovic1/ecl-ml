@@ -1,6 +1,6 @@
 IMPORT Std;
 EXPORT Bundle := MODULE(Std.BundleBase)
-  EXPORT Name := 'ML';
+  EXPORT Name := 'ecl-ml';
   EXPORT Description := 'Machine Learning Library';
   EXPORT Authors := ['HPCCSystems'];
   EXPORT License := 'See LICENSE.TXT';
